@@ -1,0 +1,54 @@
+{
+    "PDF": [
+        "pdf"
+    ],
+    "Images": [
+        "tif",
+        "tiff",
+        "bmp",
+        "jpg",
+        "jpeg",
+        "gif",
+        "png",
+        "eps",
+        "raw",
+        "cr2",
+        "nef",
+        "sr2"
+    ],
+    "Media": [
+        "aac",
+        "mp4",
+        "mkv",
+        "ogg",
+        "mid"
+    ],
+    "Archives": [
+        "rar",
+        "zip",
+        "7z"
+    ],
+    "Executables": [
+        "exe",
+        "msi"
+    ],
+    "Scripts": [
+        "ps1",
+        "ini",
+        "py",
+        "rmskin"
+    ],
+    "Documents": [
+        "xlsx",
+        "xls",
+        "doc",
+        "docx",
+        "csv"
+    ],
+    "Data Files": [
+        "json",
+        "xml",
+        "obj"
+    ],
+    "Super Folder": []
+}
